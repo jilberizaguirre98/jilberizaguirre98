@@ -1,16 +1,20 @@
 ### Hi there, I'm Jilber 👋
 
-<!--
-**jilberizaguirre98/jilberizaguirre98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a webpage developed with Python using the Reflex as a Framework.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python and Data Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lenguajes de Programación
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+## Tecnologías y Frameworks
+### Backend
+![Reflex](https://img.shields.io/badge/REFLEX-000000)
+
+### Frontend
+![Reflex](https://img.shields.io/badge/REFLEX-000000)
+
+
+
