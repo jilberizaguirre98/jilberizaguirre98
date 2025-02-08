@@ -1,6 +1,6 @@
 ### Hi there, I'm Jilber 👋
 
-- 🌱 I’m currently creating a sales management software using Flutter and Django
+- 🌱 I’m currently creating a sales management software using Flutter and Django.
 
 - 💻 I created a landing page developed with Python using Reflex as a Framework. It allowed me to understand the hierarchy of folders, work with a color palette for a coherent visual identity and structure the page following design and usability principles. It was a key experience to strengthen my knowledge of Python and web development ---> [Repository](https://github.com/jilberizaguirre98/python_web)
 
