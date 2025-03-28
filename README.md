@@ -1,6 +1,6 @@
 ### Hi there, I'm Jilber 👋
 
-- I'm currently working as a Full Stack Developer at Central de Maderas G&S SAS. Specializing in Flutter (Dart) and Django (Python)
+- I'm currently working as a Full Stack Developer at Central de Maderas G&S SAS. Specializing in Flutter (Dart) and Django (Python).
 
 - 🌱 I’m currently creating a sales management software using Next.js, Typescript and Django, it will have integrated chat AI. Databases using PostgreSQL
 
