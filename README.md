@@ -1,15 +1,17 @@
 <h1 align="center"><b>Hi , I'm Jilber Izaguirre </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=250px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 👨‍💻 I’m a Software Developer specialized in full-stack development with Django and Flutter/Next.js. I’m passionate about building intelligent, efficient and scalable solutions for real-world problems.
 
 🚀 I’m currently working as a Full Stack Developer at **Central de Maderas G&S SAS**, where I’m developing desktop and web applications. One of my key projects includes a **chatbot agent** integrated with **Model Context Protocol (MCP)** and **Gemini**, capable of reading/writting Excel files, inserting data into SQL databases, and automating repetitive tasks via natural language instructions.
+
+<img align="right" width=400px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 🌱 I’m currently learning more about:
 - AI-powered process automation
 - Model Context Protocol (MCP)
 - Next.js
+
 
 📚 Outside of tech, I’m passionate about:
 - 🌌 Astrophysics and space exploration  
