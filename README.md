@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Jilber Izaguirre </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=400px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width=250px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 👨‍💻 I’m a Software Developer specialized in full-stack development with Django and Flutter/Next.js. I’m passionate about building intelligent, efficient and scalable solutions for real-world problems.
 
