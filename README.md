@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi , I'm Jilber Izaguirre </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<img align="right" width=400px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 👨‍💻 I’m a Software Developer specialized in full-stack development with Django and Flutter/Next.js. I’m passionate about building intelligent, efficient and scalable solutions for real-world problems.
 
 🚀 I’m currently working as a Full Stack Developer at **Central de Maderas G&S SAS**, where I’m developing desktop and web applications. One of my key projects includes a **chatbot agent** integrated with **Model Context Protocol (MCP)** and **Gemini**, capable of reading/writting Excel files, inserting data into SQL databases, and automating repetitive tasks via natural language instructions.
@@ -15,6 +17,8 @@
 - 🏀 Playing basketball and swimming  
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jilber-izaguirre-08b740242)
+
+
 
 ## My skills 
 
@@ -41,6 +45,5 @@ Databases
 Others
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![REFLEX](https://img.shields.io/badge/REFLEX-6FA8DC?style=for-the-badge&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-
 
 
