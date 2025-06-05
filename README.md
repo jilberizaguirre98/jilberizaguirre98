@@ -4,7 +4,7 @@
 
 🚀 I’m currently working as a Full Stack Developer at **Central de Maderas G&S SAS**, where I’m developing desktop and web applications. One of my key projects includes a **chatbot agent** integrated with **Model Context Protocol (MCP)** and **Gemini**, capable of reading/writting Excel files, inserting data into SQL databases, and automating repetitive tasks via natural language instructions.
 
-<img align="right" width=400px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width=370px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
 🌱 I’m currently learning more about:
