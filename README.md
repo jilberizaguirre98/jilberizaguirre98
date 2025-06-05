@@ -18,17 +18,14 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 
-## Technologies and 
-### Backend
-
-![N8N](https://img.shields.io/badge/n8n-%23E3507A.svg?style=for-the-badge&logo=n8n&logoColor=white)
+## IA and automatizations 
+[![LangChain](https://img.shields.io/badge/LangChain-%2323423F.svg?style=for-the-badge&logoColor=white)](https://www.langchain.com/) [![N8N](https://img.shields.io/badge/n8n-%23E3507A.svg?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/) [![MCP](https://img.shields.io/badge/mcp-%231C1C2B.svg?style=for-the-badge&logoColor=white)](https://modelcontextprotocol.io/)
 
 ### Frontend
- ![REFLEX](https://img.shields.io/badge/REFLEX-6FA8DC?style=for-the-badge&logoColor=white)
 
 ## Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Others
 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![REFLEX](https://img.shields.io/badge/REFLEX-6FA8DC?style=for-the-badge&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![REFLEX](https://img.shields.io/badge/REFLEX-6FA8DC?style=for-the-badge&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
