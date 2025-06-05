@@ -20,7 +20,7 @@
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jilber-izaguirre-08b740242)
 
-
+<br>
 
 ## My skills 
 
