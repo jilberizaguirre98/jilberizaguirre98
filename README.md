@@ -48,4 +48,11 @@ Others
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![REFLEX](https://img.shields.io/badge/REFLEX-6FA8DC?style=for-the-badge&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 
+<br>
+
+<h3 align="center">👀 Visitors Count 👀</h3>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jilberizaguirre98/count.svg" alt="Visitor Count" />
+</p>
 
