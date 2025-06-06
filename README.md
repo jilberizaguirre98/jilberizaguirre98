@@ -10,7 +10,7 @@
 🌱 I’m currently learning more about:
 - AI-powered process automation
 - Model Context Protocol (MCP)
-- Next.js
+- N8N
 
 
 📚 Outside of tech, I’m passionate about:
