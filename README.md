@@ -1,15 +1,15 @@
 <h1 align="center"><b>Hi , I'm Jilber Izaguirre </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-👨‍💻 I’m a Software Developer specialized in full-stack development with Django and Flutter/Next.js. I’m passionate about building intelligent, efficient and scalable solutions for real-world problems.
+👨‍💻 I am a Technology & AI Leader with a strong full-stack background in Django, Flutter, and Next.js. I specialize in designing scalable architectures and AI-driven automation systems that transform business operations.
 
-🚀 I’m currently working as a Full Stack Developer at **Central de Maderas G&S SAS**, where I’m developing desktop and web applications. One of my key projects includes a **chatbot agent** integrated with **Model Context Protocol (MCP)** and **Gemini**, capable of reading/writting Excel files, inserting data into SQL databases, and automating repetitive tasks via natural language instructions. <br><br>
+🚀 I lead the Technology and Artificial Intelligence area at Central de Maderas, building the company’s tech infrastructure from the ground up. My focus is designing a scalable AI-powered automation architecture that enables intelligent workflows across all business areas, transforming operations beyond standalone applications or chatbots. <br><br>
 
 <img align="right" width=380px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
 🌱 I’m currently learning more about:
-- AI-powered process automation
-- Model Context Protocol (MCP)
+- AI Systems Architecture
+- Cybersecurity fundamentals for distributed systems
 - N8N
 
 
@@ -53,6 +53,6 @@ Others
 <h3 align="center">👀 Visitors Count 👀</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/jilberizaguirre98/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=jilberizaguirre98&style=flat-square&label=Profile+Views" alt="Visitor Count" />
 </p>
 
